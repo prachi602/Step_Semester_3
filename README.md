@@ -1,5 +1,18 @@
 ## Date: 06-09-2026
 **Today's Work:**
+- Completed Session 2 String class problems and assignment problems.
+- Implemented and tested all 10 problems covering string processing, validation, parsing, StringBuilder, Character methods, HashMap, and word-frequency analysis.
+
+**Next Session Plan:**
+- Start Session 3 OOP Practice Problems.
+- Implement Class Problems M1–M5 covering classes, constructors, encapsulation, constructor overloading, object references, and static vs instance members.
+
+**Issues Faced:**
+- None
+  ---
+- 
+## Date: 06-09-2026
+**Today's Work:**
 - Completed Session 1 – String Concepts.
 - Completed 5 class problems covering Rock-Paper-Scissors, palindrome checking, BMI calculation, first non-repeating character, and customer name reversal.
 - Completed 5 assignment problems covering exam hall seat duplication, typing accuracy, traffic signal streak analysis, warehouse inventory balancing, and movie review word-length profiling.
