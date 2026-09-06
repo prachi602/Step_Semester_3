@@ -1,4 +1,17 @@
-## Date: 29-08-2026
+## Date: 06-09-2026
+**Today's Work:**
+- Completed Session 4 OOP Class Problems M1–M5 covering this() constructor chaining, this keyword, final methods, static blocks, and instanceof-based processing.
+- Completed Session 4 OOP Assignment Problems A1–A5 covering constructor overloading, this keyword, final methods, static blocks, inheritance, instanceof, safe casting, and running totals.
+
+**Next Session Plan:**
+- Start Session 5 Java Access and Encapsulation Problems.
+- Implement M1–M5 covering access modifiers, cross-package protected access, encapsulation, JavaBeans, write-only properties, immutability, defensive copying, wither methods, and instanceof-based processing.
+
+**Issues Faced:**
+- None
+  ---
+- 
+Date: 29-08-2026
 **Today's Work:**
 - Completed Session 3 OOP Class Problems M1–M5 covering classes, constructors, encapsulation, constructor overloading, object references, and static vs instance members.
 - Completed Session 3 OOP Assignment Problems M1–M5 covering arrays of objects, encapsulation, constructor chaining, reference copying, and static vs instance members.
