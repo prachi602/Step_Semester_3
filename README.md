@@ -1,4 +1,22 @@
-## Date: 06-09-2026
+## Date: 12-09-2026
+
+**Today's Work:**
+
+* Completed Session 5 Java Access and Encapsulation Class Problems covering access modifiers, cross-package protected access, encapsulation, JavaBeans, write-only properties, immutable objects, defensive copying, wither methods, and instanceof-based processing.
+* Completed Session 5 Java Access and Encapsulation Assignment Problems covering access-modifier reachability, per-modifier aggregation, early-exit denial scanning, encapsulated inventory state, JavaBeans, write-once and write-only properties, immutable loan receipts, defensive copying, static initialization, and instanceof-based circulation processing.
+
+**Next Session Plan:**
+
+* Start Session 6 Category B Practice Problems covering inheritance, method overriding, method overloading, static members, final fields, exception handling, defensive copying, polymorphism, downcasting, and instanceof-based processing.
+
+**Issues Faced:**
+
+* Some problem statements contained conflicting requirements involving final classes and inheritance. The practical Java-compatible implementation was used where necessary.
+
+---
+
+
+Date: 06-09-2026
 **Today's Work:**
 - Completed Session 4 OOP Class Problems M1–M5 covering this() constructor chaining, this keyword, final methods, static blocks, and instanceof-based processing.
 - Completed Session 4 OOP Assignment Problems A1–A5 covering constructor overloading, this keyword, final methods, static blocks, inheritance, instanceof, safe casting, and running totals.
