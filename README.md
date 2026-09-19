@@ -1,3 +1,16 @@
+## Date: 19-09-2026
+**Today's Work:**
+- Completed Session 6 Category B Inheritance Class Problems covering single, multilevel, and hierarchical inheritance, method overriding, polymorphism, defensive copying, downcasting, static members, final fields, method and constructor overloading, and instanceof-based processing.
+- Completed Session 6 Category B Inheritance Assignment Problems covering gym membership inheritance, batch sign-up validation, multilevel and hierarchical membership types, late-fee discounting with defensive copying, attendance announcements with safe downcasting, membership numbering, referral-code validation, overloaded fee payment, and weekly check-in settlement.
+
+**Next Session Plan:**
+- Start Session 7 and complete the assigned class and assignment problems.
+
+**Issues Faced:**
+- Some examples in the problem statements conflicted with required validation rules, so valid test data was used without weakening the required validation.
+- An overloaded fee-payment method was initially missing in Assignment Problem 5 and was added to satisfy the required method calls.
+  ---
+
 ## Date: 12-09-2026
 
 **Today's Work:**
