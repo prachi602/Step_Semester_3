@@ -1,4 +1,18 @@
-## Date: 27-09-2026
+## Date: 04-10-2026
+**Today's Work:**
+- Completed Session 8 Category B Assignment Problems covering interface-based abstraction, polymorphism, encapsulation, validation, state management, late-penalty calculation, seat booking, membership plans, and notification channels.
+- Completed Hostel Laundry Queue, Assignment Submission Portal, Campus Premiere Ticket Counter, FitZone Membership Desk, and Campus Notice Broadcaster.
+- Applied extensible designs using interfaces and abstractions, including adding a new WhatsApp notification channel without modifying the existing notice-posting logic.
+
+**Next Session Plan:**
+- Start Session 9 and complete the assigned class and assignment problems.
+
+**Issues Faced:**
+- The existing Student class from the Hostel Laundry Queue problem was extended for the Campus Notice Broadcaster while preserving the original constructor for compatibility.
+- SMS channel file had to be recreated after IntelliJ initially could not resolve the `SmsChannel` class.
+  ---
+- 
+- ## Date: 27-09-2026
 **Today's Work:**
 - Completed Session 7 Category B Abstraction Class Problems covering abstract classes, abstract methods, interfaces, interface polymorphism, multilevel inheritance, method overriding, method overloading, JavaBeans, and runtime polymorphism.
 - Completed Session 7 Category B Abstraction Assignment Problems covering interface-based polymorphism, abstract classes with static counters and final fields, multilevel inheritance, method overloading, hierarchical inheritance, selective interface implementation, instanceof checks, and safe downcasting.
