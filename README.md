@@ -1,4 +1,18 @@
-## Date: 04-10-2026
+## Date: 31-10-2026
+**Today's Work:**
+- Completed Session 9 Class Problems covering binary search, 2D grid traversal, pair-sum detection using brute force and HashSet, and the two-pointer approach.
+- Completed Session 9 Assignment Problems covering class topper identification, merging sorted arrays, frequency counting using HashMap, sliding-window analysis, and binary search insertion position.
+- Tested all 10 programs and pushed the completed class and assignment solutions to `feature/session_9`.
+
+**Next Session Plan:**
+- Start Session 10 and complete all five assigned coding problems.
+- Practice object-oriented programming concepts including inheritance, interfaces, abstraction, polymorphism, and Java collections.
+
+**Issues Faced:**
+- IntelliJ initially created Java source files inside `.idea/src/` instead of the actual source directory. The files were relocated to the correct `src/main/java/` structure before committing.
+  ---
+- 
+- ## Date: 04-10-2026
 **Today's Work:**
 - Completed Session 8 Category B Assignment Problems covering interface-based abstraction, polymorphism, encapsulation, validation, state management, late-penalty calculation, seat booking, membership plans, and notification channels.
 - Completed Hostel Laundry Queue, Assignment Submission Portal, Campus Premiere Ticket Counter, FitZone Membership Desk, and Campus Notice Broadcaster.
