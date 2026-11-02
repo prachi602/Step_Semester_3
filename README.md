@@ -1,3 +1,23 @@
+## Date: 02-11-2026
+
+**Today's Work:**
+- Completed Session 10 Class Problems.
+- Implemented Bank Account Withdrawal System using inheritance and method overriding.
+- Implemented Campus Vehicle Pass System using abstract classes and interfaces.
+- Implemented Student Club Registration Management using HashSet, equals(), and hashCode().
+- Implemented Class Marks Grid Analysis using 2D arrays.
+- Implemented Payroll Register System using inheritance and runtime polymorphism.
+- Practiced abstraction, encapsulation, collections, arrays, and runtime polymorphism.
+
+**Next Session Plan:**
+- Begin Session 11 problems.
+- Continue practicing Java OOP concepts.
+
+**Issues Faced:**
+- Resolved IntelliJ run configuration issues.
+
+---
+
 ## Date: 31-10-2026
 **Today's Work:**
 - Completed Session 9 Class Problems covering binary search, 2D grid traversal, pair-sum detection using brute force and HashSet, and the two-pointer approach.
