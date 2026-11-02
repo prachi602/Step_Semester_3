@@ -1,3 +1,28 @@
+## Date: 03-11-2026
+
+**Today's Work:**
+- Completed Session 10 Class Problems:
+  - Bank Account Withdrawal System
+  - Campus Vehicle Pass System
+  - Student Club Registration Management
+  - Class Marks Grid Analysis
+  - Payroll Register System
+- Completed Session 10 Assignment Problems:
+  - Priority Token Insertion
+  - Cancelled Orders Cleanup
+  - Reverse the Queue
+  - Train Coaches Both Ways
+  - Round-Robin Game Turns
+- Practiced inheritance, abstraction, interfaces, polymorphism, arrays, singly linked lists, doubly linked lists, and circular linked lists.
+
+**Next Session Plan:**
+- Begin Session 11 sorting and selection algorithm problems.
+- Practice time and space complexity analysis.
+
+**Issues Faced:**
+- Resolved IntelliJ run configuration and Git branch synchronization issues.
+
+---
 ## Date: 02-11-2026
 
 **Today's Work:**
